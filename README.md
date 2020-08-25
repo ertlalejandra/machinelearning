@@ -7,5 +7,10 @@ For now there is only one about classification, I am looking forward to prepare 
 - Unsupervised Learning. To discover patterns
 - Neural Networks
 - Natural Language Processing
-
+- Deep Learning
 ....
+
+
+The Classification file is an study case to predict cancer tumors.
+
+The Artificial Neural Networks is a file to predict the output/production in MW of a combined cycle power plant.
